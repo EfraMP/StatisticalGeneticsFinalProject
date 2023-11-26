@@ -1,0 +1,26 @@
+PLINK v1.90b7.1 64-bit (18 Oct 2023)
+Options in effect:
+  --bfile pruned
+  --make-bed
+  --out pruned_final
+  --remove-fam related.txt
+
+Hostname: Alejandros-MacBook-Air.local
+Working directory: /Users/efra/Documents/LCG/5th/Statistical Genetics/gh/StatisticalGenomics/Project
+Start time: Tue Nov 14 22:49:53 2023
+
+Random number seed: 1700023793
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+93788 variants loaded from .bim file.
+1375 people (920 males, 455 females) loaded from .fam.
+1375 phenotype values loaded from .fam.
+--remove-fam: 1374 people remaining.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1374 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate in remaining samples is 0.99167.
+93788 variants and 1374 people pass filters and QC.
+Among remaining phenotypes, 707 are cases and 667 are controls.
+--make-bed to pruned_final.bed + pruned_final.bim + pruned_final.fam ... done.
+
+End time: Tue Nov 14 22:49:53 2023

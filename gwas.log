@@ -1,0 +1,30 @@
+PLINK v1.90b7.1 64-bit (18 Oct 2023)
+Options in effect:
+  --adjust qq-plot
+  --bfile qc_final
+  --covar pca.eigenvec
+  --covar-number 3-6
+  --logistic
+  --out gwas
+
+Hostname: Efras-MacBook-Air.local
+Working directory: /Users/efra/Documents/LCG/5th/Statistical Genetics/gh/StatisticalGenomics/Project
+Start time: Wed Nov 15 21:16:35 2023
+
+Random number seed: 1700104595
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+382054 variants loaded from .bim file.
+1374 people (919 males, 455 females) loaded from .fam.
+1374 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+--covar: 4 out of 20 covariates loaded.
+Before main variant filters, 1374 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.992073.
+382054 variants and 1374 people pass filters and QC.
+Among remaining phenotypes, 707 are cases and 667 are controls.
+Writing logistic model association results to gwas.assoc.logistic ... done.
+--adjust: Genomic inflation est. lambda (based on median chisq) = 1.00686.
+--adjust values (382054 variants) written to gwas.assoc.logistic.adjusted .
+
+End time: Wed Nov 15 21:16:42 2023

@@ -1,0 +1,47 @@
+PLINK v1.90b7.1 64-bit (18 Oct 2023)
+Options in effect:
+  --bfile qc
+  --indep-pairwise 50 5 0.2
+  --out ld-prune
+
+Hostname: Alejandros-MacBook-Air.local
+Working directory: /Users/efra/Documents/LCG/5th/Statistical Genetics/gh/StatisticalGenomics/Project
+Start time: Tue Nov 14 21:05:20 2023
+
+Random number seed: 1700017520
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+382054 variants loaded from .bim file.
+1375 people (920 males, 455 females) loaded from .fam.
+1375 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1375 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.992056.
+382054 variants and 1375 people pass filters and QC.
+Among remaining phenotypes, 708 are cases and 667 are controls.
+Pruned 23542 variants from chromosome 1, leaving 7490.
+Pruned 25223 variants from chromosome 2, leaving 7316.
+Pruned 20582 variants from chromosome 3, leaving 6310.
+Pruned 18590 variants from chromosome 4, leaving 5786.
+Pruned 19206 variants from chromosome 5, leaving 5963.
+Pruned 18651 variants from chromosome 6, leaving 5631.
+Pruned 15878 variants from chromosome 7, leaving 5144.
+Pruned 16828 variants from chromosome 8, leaving 4826.
+Pruned 13960 variants from chromosome 9, leaving 4427.
+Pruned 16343 variants from chromosome 10, leaving 5084.
+Pruned 14957 variants from chromosome 11, leaving 4527.
+Pruned 13884 variants from chromosome 12, leaving 4765.
+Pruned 11473 variants from chromosome 13, leaving 3672.
+Pruned 9253 variants from chromosome 14, leaving 3210.
+Pruned 8409 variants from chromosome 15, leaving 3033.
+Pruned 8945 variants from chromosome 16, leaving 3246.
+Pruned 6052 variants from chromosome 17, leaving 2741.
+Pruned 8463 variants from chromosome 18, leaving 3026.
+Pruned 3277 variants from chromosome 19, leaving 1808.
+Pruned 7327 variants from chromosome 20, leaving 2767.
+Pruned 4036 variants from chromosome 21, leaving 1501.
+Pruned 3387 variants from chromosome 22, leaving 1515.
+Pruning complete.  288266 of 382054 variants removed.
+Marker lists written to ld-prune.prune.in and ld-prune.prune.out .
+
+End time: Tue Nov 14 21:05:21 2023

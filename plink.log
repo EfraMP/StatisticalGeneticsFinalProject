@@ -1,0 +1,13 @@
+PLINK v1.90b7.1 64-bit (18 Oct 2023)
+Options in effect:
+  --gene-report gwas.assoc.logistic glist-hg19.txt
+
+Hostname: Efras-MacBook-Air.local
+Working directory: /Users/efra/Documents/LCG/5th/Statistical Genetics/gh/StatisticalGenomics/Project
+Start time: Wed Nov 15 22:47:13 2023
+
+Random number seed: 1700110033
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+--gene-report: gene-based report written to plink.range.report .
+
+End time: Wed Nov 15 22:47:23 2023

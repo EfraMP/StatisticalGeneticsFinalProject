@@ -1,0 +1,35 @@
+PLINK v1.90b7.1 64-bit (18 Oct 2023)
+Options in effect:
+  --bfile data
+  --freq
+  --hardy
+  --het
+  --ibc
+  --missing
+  --out stats
+  --test-missing
+
+Hostname: Alejandros-MacBook-Air.local
+Working directory: /Users/efra/Documents/LCG/5th/Statistical Genetics/gh/StatisticalGenomics/Project
+Start time: Mon Nov 13 17:08:52 2023
+
+Random number seed: 1699916932
+24576 MB RAM detected; reserving 12288 MB for main workspace.
+500000 variants loaded from .bim file.
+1401 people (937 males, 464 females) loaded from .fam.
+1401 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1401 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.977593.
+--freq: Allele frequencies (founders only) written to stats.frq .
+--missing: Sample missing data report written to stats.imiss, and variant-based
+missing data report written to stats.lmiss.
+--hardy: Writing Hardy-Weinberg report (founders only) to stats.hwe ... done.
+500000 variants and 1401 people pass filters and QC.
+Among remaining phenotypes, 721 are cases and 680 are controls.
+stats.ibc written.
+--het: 484766 variants scanned, report written to stats.het .
+Writing --test-missing report to stats.missing ... done.
+
+End time: Mon Nov 13 17:08:54 2023
